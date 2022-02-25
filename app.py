@@ -17,6 +17,8 @@ OptionList = [
 "www.smotrim.ru",
 "www.vgtrk.ru",
 "xn--b1aew.xn--p1ai",
+"cbr.ru",
+"mil.ru",
 ] 
 
 
